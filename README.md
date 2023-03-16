@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:93DDE6,100:48D1E0&height=200&section=header&text=Hi👋%20,%20I'm%20Steph&fontSize=50&fontAlign=70&descAlign=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:93DDE6,100:48D1E0&height=150&section=header&text=Hi👋%20,%20I'm%20Steph!-nl-&fontSize=40&fontAlign=70&descAlign=10)
 
+<h3> I'm a passionate web developer from Toronto, Canada.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stephsteph123&label=Profile%20views&color=0e75b6&style=flat" alt="stephsteph123" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/stephsteph123](https://github.com/stephsteph123)
