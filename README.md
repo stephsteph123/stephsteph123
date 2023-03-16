@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:93DDE6,100:48D1E0&height=150&section=header&text=Hi👋%20,%20I'm%20Steph!-nl-&fontSize=40&fontAlign=70&descAlign=10)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:93DDE6,100:48D1E0&height=150&section=header&text=%20Steph%20Rowe-nl-&fontSize=40&fontColor=D5F2F1&fontAlign=70&descAlign=10)
 
-<h3> I'm a passionate web developer from Toronto, Canada.</h3>
+<h3> I'm a passionate web developer from Toronto, Canada. Always up for a challenge!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stephsteph123&label=Profile%20views&color=0e75b6&style=flat" alt="stephsteph123" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/stephsteph123](https://github.com/stephsteph123)
@@ -10,7 +10,7 @@
 
 <p
 <h3 align="left">Languages and Tools:</h3>
-<table> 
+<table style="background-color: #f2f2f2;"> 
   <tr>
     <th>Project Name</th>
     <th><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></th>
