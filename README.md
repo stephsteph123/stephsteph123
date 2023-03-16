@@ -1,5 +1,4 @@
-<h1 align="center" >Hi 👋, I'm Steph</h1>
-<h3 align="center">A passionate developer from Canada</h3>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:93DDE6,100:48D1E0&height=200&section=header&text=Hi👋%20,%20I'm%20Steph&fontSize=50&fontAlign=70&descAlign=20)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stephsteph123&label=Profile%20views&color=0e75b6&style=flat" alt="stephsteph123" /> </p>
 
@@ -43,4 +42,3 @@
   </tr>
 </table>
 </p>  
-
