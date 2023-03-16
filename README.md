@@ -10,28 +10,34 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <table class="tg">
+  <thead>
   <tr>
     <th class="tg-baqh"></th>
-    <th class="tg-baqh" colspan="2">Programming Languages</th>
+    <th class="tg-baqh" colspan="3">Programming Languages</th>
     <th class="tg-baqh" colspan="3">Frontend</th>
     <th class="tg-baqh" colspan="2">Backend</th>
-    <th class="tg-baqh">Database</th>
+    <th class="tg-baqh" colspan="2">Database</th>
     <th class="tg-baqh" colspan="2">Testing</th>
-    <th class="tg-baqh">Site Generator</th>
+    <th class="tg-baqh" colspan="2">Misc</th>
   </tr>
+  </thead>
+  <tbody>
   <tr>
     <td class="tg-0lax">Project Name</td>
-    <td class="tg-0lax"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></td>
-    <td class="tg-0lax"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></td>
-    <td class="tg-0lax"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></td>
-    <td class="tg-0lax"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></td>
-    <td class="tg-0lax"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></td>
+    <td class="tg-0lax">Javascript</td>
+    <td class="tg-0lax">Ruby</td>
+    <td class="tg-0lax">Python</td>
+    <td class="tg-0lax">CSS</td>
+    <td class="tg-0lax">SASS</td>
+    <td class="tg-0lax">Chakra</td>
     <td class="tg-0lax">Node Js</td>
-    <td class="tg-0lax"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></td>
-    <td class="tg-0lax"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></td>
-    <td class="tg-0lax"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/></td>
-    <td class="tg-0lax"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></td>
-    <td class="tg-0lax"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></td>
+    <td class="tg-0lax">Express</td>
+    <td class="tg-0lax">Postgresql</td>
+    <td class="tg-0lax">Pocketbase</td>
+    <td class="tg-0lax">Cypress</td>
+    <td class="tg-0lax">Jest</td>
+    <td class="tg-0lax">Next Js</td>
+    <td class="tg-0lax">Pygame</td>
   </tr>
   <tr>
     <td class="tg-0lax"></td>
@@ -46,6 +52,8 @@
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax"></td>
@@ -60,5 +68,7 @@
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
   </tr>
+</tbody>
 </table>
