@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **stephaniepotterrowe@gmail.com**
 </p> 
-
+<!-- 
 <h3 align="left">Languages and Tools:</h3>
 <table class="tg">
   <thead>
@@ -80,4 +80,4 @@
     <td class="tg-0lax"><span>&#10003;</span></td>
   </tr>
 </tbody>
-</table>
+</table> -->
