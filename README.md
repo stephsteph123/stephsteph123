@@ -9,96 +9,85 @@
 </p> 
 
 <h3 align="left">Skills:</h3>
+<p>
+LANGUAGES: <i> JavaScript, Ruby, HTML, CSS, SQL </i> <br>
+FRAMEWORKS & LIBRARIES: <i> NodeJS, React, Ajax, Express, EJS, jQuery, Rails </i> <br>
+SYSTEMS & DATABASES: <i> PostgreSQL, Git </i><br>
+TESTING: <i> Jest, Storybook, Cypress, RSpec </i><br>
+SOFTWARE: <i> Microsoft Suite (Excel), Data Visualization (Tableau), FileZilla </i>
+</p>
 
-<h3 align="left">Projects:</h3>
+
+<h3 align="left">Pinned Projects:</h3>
 <table class="tg">
-  <thead>
+<thead>
   <tr>
-    <th class="tg-baqh"></th>
-    <th class="tg-baqh" colspan="3">Programming Languages</th>
-    <th class="tg-baqh" colspan="3">Frontend</th>
-    <th class="tg-baqh" colspan="2">Backend</th>
-    <th class="tg-baqh" colspan="2">Database</th>
-    <th class="tg-baqh" colspan="3">Testing</th>
-    <th class="tg-baqh" colspan="3">Misc</th>
+    <th class="tg-cly1"></th>
+    <th class="tg-lboi">Project Name</th>
+    <th class="tg-cly1"><span style="font-weight:400;font-style:normal">Personal Chef</span></th>
+    <th class="tg-cly1">Scheduler</th>
+    <th class="tg-lboi">Decision Maker</th>
   </tr>
-  </thead>
-  <tbody>
+</thead>
+<tbody>
   <tr>
-    <td class="tg-0lax">Project Name</td>
-    <td class="tg-0lax">Javascript</td>
-    <td class="tg-0lax">Ruby</td>
-    <td class="tg-0lax">Python</td>
-    <td class="tg-0lax">CSS</td>
-    <td class="tg-0lax">React</td>
-    <td class="tg-0lax">Chakra</td>
-    <td class="tg-0lax">Node Js</td>
-    <td class="tg-0lax">Express</td>
-    <td class="tg-0lax">Postgresql</td>
-    <td class="tg-0lax">Pocketbase</td>
-    <td class="tg-0lax">Cypress</td>
-    <td class="tg-0lax">Jest</td>
-    <td class="tg-0lax">Storybook</td>
-    <td class="tg-0lax">Next Js</td>
-    <td class="tg-0lax">Pygame</td>
-    <td class="tg-0lax">Axios</td>
+    <td class="tg-cly1">Languages</td>
+    <td class="tg-lboi">Javascript</td>
+    <td class="tg-zebe">✓</td>
+    <td class="tg-zebe">✓</td>
+    <td class="tg-72fj">✓</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Personal Chef</td>
-    <td class="tg-0lax"><span>&#10003;</span></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"><span>&#10003;</span></td>
-    <td class="tg-0lax"><span>&#10003;</span></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"><span>&#10003;</span></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"><span>&#10003;</span></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-cly1" rowspan="3">Frontend</td>
+    <td class="tg-lboi">CSS</td>
+    <td class="tg-zebe"></td>
+    <td class="tg-zebe">✓</td>
+    <td class="tg-72fj">✓</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Scheduler</td>
-    <td class="tg-0lax"><span>&#10003;</span></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"><span>&#10003;</span></td>
-    <td class="tg-0lax"><span>&#10003;</span></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"><span>&#10003;</span></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"><span>&#10003;</span></td>
-    <td class="tg-0lax"><span>&#10003;</span></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"><span>&#10003;</span></td>
+    <td class="tg-lboi">React</td>
+    <td class="tg-zebe">✓</td>
+    <td class="tg-zebe">✓</td>
+    <td class="tg-72fj"></td>
   </tr>
-    <tr>
-    <td class="tg-0lax">Decision Maker</td>
-    <td class="tg-0lax"><span>&#10003;</span></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"><span>&#10003;</span></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"><span>&#10003;</span></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"><span>&#10003;</span></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+  <tr>
+    <td class="tg-cly1">Chakra</td>
+    <td class="tg-zebe">✓</td>
+    <td class="tg-zebe"></td>
+    <td class="tg-zebe"></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Backend</td>
+    <td class="tg-cly1">Node Js</td>
+    <td class="tg-zebe"></td>
+    <td class="tg-zebe">✓</td>
+    <td class="tg-zebe">✓</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1" rowspan="2">Database</td>
+    <td class="tg-cly1">Postgresql</td>
+    <td class="tg-zebe"></td>
+    <td class="tg-zebe">✓</td>
+    <td class="tg-zebe"></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Pocketbase</td>
+    <td class="tg-zebe">✓</td>
+    <td class="tg-zebe"></td>
+    <td class="tg-zebe"></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1" rowspan="2">Misc</td>
+    <td class="tg-cly1">Next js</td>
+    <td class="tg-zebe">✓</td>
+    <td class="tg-zebe"></td>
+    <td class="tg-zebe"></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Axios</td>
+    <td class="tg-zebe"></td>
+    <td class="tg-zebe">✓</td>
+    <td class="tg-zebe"></td>
   </tr>
 </tbody>
 </table>
