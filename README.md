@@ -7,8 +7,10 @@
 
 - 📫 How to reach me **stephaniepotterrowe@gmail.com**
 </p> 
-<!-- 
-<h3 align="left">Languages and Tools:</h3>
+
+<h3 align="left">Skills:</h3>
+
+<h3 align="left">Projects:</h3>
 <table class="tg">
   <thead>
   <tr>
@@ -79,5 +81,24 @@
     <td class="tg-0lax"></td>
     <td class="tg-0lax"><span>&#10003;</span></td>
   </tr>
+    <tr>
+    <td class="tg-0lax">Decision Maker</td>
+    <td class="tg-0lax"><span>&#10003;</span></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><span>&#10003;</span></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><span>&#10003;</span></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><span>&#10003;</span></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
 </tbody>
-</table> -->
+</table>
