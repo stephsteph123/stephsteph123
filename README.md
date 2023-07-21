@@ -26,7 +26,7 @@ SOFTWARE: <i> Microsoft Suite (Excel), Data Visualization (Tableau), FileZilla <
     <th class="tg-lboi">Project Name</th>
     <th class="tg-cly1"><span style="font-weight:400;font-style:normal">Personal Chef</span></th>
     <th class="tg-cly1">Scheduler</th>
-    <th class="tg-lboi">Decision Maker</th>
+    <th class="tg-lboi">Client Dashboard</th>
   </tr>
 </thead>
 <tbody>
@@ -38,7 +38,7 @@ SOFTWARE: <i> Microsoft Suite (Excel), Data Visualization (Tableau), FileZilla <
     <td class="tg-72fj">✓</td>
   </tr>
   <tr>
-    <td class="tg-cly1" rowspan="3">Frontend</td>
+    <td class="tg-cly1" rowspan="4">Frontend</td>
     <td class="tg-lboi">CSS</td>
     <td class="tg-zebe"></td>
     <td class="tg-zebe">✓</td>
@@ -48,13 +48,19 @@ SOFTWARE: <i> Microsoft Suite (Excel), Data Visualization (Tableau), FileZilla <
     <td class="tg-lboi">React</td>
     <td class="tg-zebe">✓</td>
     <td class="tg-zebe">✓</td>
-    <td class="tg-72fj"></td>
+    <td class="tg-72fj">✓</td>
   </tr>
   <tr>
     <td class="tg-cly1">Chakra</td>
     <td class="tg-zebe">✓</td>
     <td class="tg-zebe"></td>
     <td class="tg-zebe"></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Bootstrap</td>
+    <td class="tg-zebe"></td>
+    <td class="tg-zebe"></td>
+    <td class="tg-zebe">✓</td>
   </tr>
   <tr>
     <td class="tg-cly1">Backend</td>
@@ -74,7 +80,7 @@ SOFTWARE: <i> Microsoft Suite (Excel), Data Visualization (Tableau), FileZilla <
     <td class="tg-cly1">Pocketbase</td>
     <td class="tg-zebe">✓</td>
     <td class="tg-zebe"></td>
-    <td class="tg-zebe"></td>
+    <td class="tg-zebe">✓</td>
   </tr>
   <tr>
     <td class="tg-cly1" rowspan="2">Misc</td>
@@ -87,7 +93,7 @@ SOFTWARE: <i> Microsoft Suite (Excel), Data Visualization (Tableau), FileZilla <
     <td class="tg-cly1">Axios</td>
     <td class="tg-zebe"></td>
     <td class="tg-zebe">✓</td>
-    <td class="tg-zebe"></td>
+    <td class="tg-zebe">✓</td>
   </tr>
 </tbody>
 </table>
